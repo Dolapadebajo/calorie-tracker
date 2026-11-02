@@ -19,3 +19,4 @@ Simply open `index.html` in any modern web browser. No build steps or server req
 ## License
 
 MIT
+
